@@ -1,0 +1,583 @@
+	question	answer	pmid
+197	How much did overall positive sentiment increase during the COVID-19 period?	+1.1 points	36064471
+543	What scores did the transformer-based model in this study outperform?	0.816, 0.668, 0.528, and 0.743	36002778
+530	What was the threshold for specificity?	0.9	36004803
+276	What was the micro-AUROC for primary lung cancer location?	0.913 and 0.946	36050674
+498	What was the range of the AUROC of the rule-based model?	0.92 to 0.96	36010232
+278	What was the micro-AUROC of distant metastasis?	0.944 and 0.950	36050674
+277	What specificity did the deep-learning model show for metastatic lymph nodes?	0.960	36050674
+133	How many labeled entries did we externally validate the model with?	1,288	36067870
+211	When were abstracts published in English?	1.1.1975 and 31.12.2018	36062781
+106	What percentage of patients with long COVID had a loss of smell and taste?	1.6%	36069846
+306	How many tweets were downloaded through the Twitter API V-2?	10 million	36046150
+104	What were the most significant rules with?	10% minimum confidence and 0.01% minimum support with a positive lift	36069846
+405	What coverage did MedTCS enable the word-based embedding models to achieve?	100% coverage	36032678
+164	How many live birth pregnancies had documented PTL evaluation visits identified by the computerized algorithm?	103,139	36066930
+214	How many activity criteria from various fields were identified?	108	36062781
+440	How many responses were received from different countries and practitioners' groups?	110	36029230
+65	How many categories of medical terms characterized the differential diagnosis discussions within individual cases?	12	36071325
+568	How long was the follow-up period of the PAGE study?	12 months	36000822
+122	How many general surgery residency websites featured an identifiable statement of nondiscrimination or commitment to diversity?	127	36068160
+72	How many NLP logics were developed for the DAPR?	127	36070785
+303	Anti-Asian hate crime in 16 of America's largest cities increased by what percentage in 2020?	149%	36046150
+243	How long did it take to train the transformer model?	15 days	36056425
+132	How many labeled entries were split into case-control-balanced train, validation, and test datasets?	15,540	36067870
+70	Fifteen reviewers performed a retrospective manual chart review for how many COVID-19 positive patients?	150	36070785
+165	What was the trend of pregnancies with PTL evaluation visits in 2020?	17.42%	36066930
+167	What was the percentage of first PTL visits with an fFN test at 24?	18.06%	36066930
+166	How many of the first 103,139 PTL visits had an fFN test and a TVUS?	19,439	36066930
+425	How many WVEs occurred in retail and dining establishments?	192, 48%	36031266
+196	What was the AFINN score for reviews containing integration words?	2.3 points	36064471
+199	How long has MS research been changing significantly?	20 years	36063731
+272	How many PET-CT reports were used for training and validation?	20,466	36050674
+511	When was the PsycInfo Database Record created?	2022	36006759
+351	What year did Japan declare carbon neutral?	2050	36039080
+355	How many school-age autistic children were measured during listening to word-level prosodic stimuli?	21	36038793
+69	How many associated machine learning phenotypes were validated in the Mass General Brigham COVID-19 Data Mart?	22	36070785
+429	What percentage of WVEs involved coughing or spit on a worker while threatening infection from SARS-CoV-2?	22%	36031266
+241	How many novel Heck reactions were confirmed by organizing chemists to judge the generated reactions?	2253	36056425
+356	How many age-matched neurotypical peers did we measure?	25	36038793
+60	How many cases were collected from the NEJM Clinical Pathological Conference from 1965 to 2020?	2525	36071325
+329	How many patient-date pairs were included in the study at Michigan?	2569	36044253
+473	How many studies were selected from the literature review?	26	36011981
+423	What percentage of WVEs involved non-physical violence?	27%	36031266
+37	How many papers were selected based on the results of the framework for further analysis?	30 papers	36080901
+453	How many participants had PAE?	31	36016474
+120	How many non-military general surgery residency programs were analyzed?	319	36068160
+544	What is the state-of-the-art 3-step Theory of Suicide?	3ST	36002210
+545	What are the most important drivers of suicidal behaviour?	3ST-psychological pain, hopelessness, connectedness, and capacity for suicide	36002210
+314	How many English words are in the CELL corpus?	4.2 million	36045644
+125	What percentage of programs participating in the Match in 2022 feature diversity statements on their websites?	40%	36068160
+422	How many workplace violence events were related to COVID-19?	400	36031266
+419	How many keywords were used to scan four search engines?	41	36031266
+531	What was the sensitivity of the higher threshold?	43%	36004803
+63	How many symptoms did NLP extract from 2525 cases?	43,291	36071325
+163	How many live birth pregnancies were identified between 2009 and 2020?	441,673	36066930
+240	How many reactions did the transformer model generate?	4717	36056425
+283	How many participants were presented with a continuous narration of a story in auditory alone, visual alone, and both synchronous and asynchronous audio	53	36049699
+123	What percentage of programs with statements were more likely to be involved with special interest surgical societies?	53.5%	36068160
+257	What percentage of variance was the DistilBERT model able to explain?	58.8%	36052318
+570	How many hospitals were included in the PAGE study?	6	36000822
+459	FA was positively related to age in how many tracts?	6 of 9 tracts	36016474
+53	How many clinical documents are in GRASCCO?	60	36073490
+64	How many diagnoses were physician-annotated?	6532	36071325
+149	How many studies were included in the systematic review of the literature?	7	36066938
+108	What confidence did patients with lung/breathing problems and loss of taste have a loss of smell with?	77%	36069846
+236	What was the test accuracy of the proposed model?	78%	36059763
+581	What percentage of georeferenced species were retrieved from TMO?	79%	35999848
+441	What percentage of respondents rated the IACT significantly better?	8.82%	36029230
+268	What is the accuracy of the proposed model?	80.11%	36052029
+525	How many transfusions were pulled from a database in an academic health system?	86,764	36004803
+136	What was the sensitivity versus specificity curve area?	87.4%	36067870
+541	How many abdominopelvic sonography reports were collected in free-text formats?	88	36002778
+135	What was the sensitivity-versus-specificity curve area under?	89.3%	36067870
+439	When did we conduct a survey to assess the overall need for an assessment tool?	8th of February and 31st of March 2021	36029230
+234	How many common psychological problems were divided into by LDA clustering analysis?	9	36059763
+407	MedTCS enabled the word-based embedding models to increase the coverage by what percentage?	9%	36032678
+572	What was the SA prevalence of asthma patients in Spanish hospitals?	9.7%	36000822
+365	What improvements did the intervention detection model show in recall and F1 score?	9.7% and 4.0%	36038066
+529	What was the specificity of NLP?	97.5%	36004803
+254	How many messaging therapists were administered the FIS-T?	978	36052318
+331	What was the internal accuracy at the development site?	99.2%	36044253
+437	How many tools are available for clinicians to use?	>20	36029230
+336	What type of approach does this paper explore the potential risks and benefits of using artificial intelligence to monitor social media?	AI-driven approach	36042870
+497	What is the receiver operating characteristic curve?	AUROC	36010232
+33	What may provide better control to enable healthy nutrition habits?	Accurate detection	36080901
+160	What is the first step in conducting PTB-related research?	Accurate identification of preterm labor	36066930
+436	What is another name for the anticholinergic burden scale?	AchB	36029230
+202	Prior work has shown that what has reduced and delayed responses to auditory feedback perturbations?	Adults who stutter	36063640
+367	What do DNNs stand for?	Albeit Deep neural networks	36035322
+304	What did we first choose a baseline of?	Americans' hate crimes against Asians on Twitter	36046150
+493	What report contains rich but underutilized information that can enable the detection of cerebrovascular diseases?	Angiography	36010232
+558	What module addresses the problem of data ingestion and harmonization from multiple data sources?	Apache NiFi module	36001371
+67	What can provide insight into how expert clinicians correlate and coordinate disease categories and processes when creating a differential diagnosis?	Applying NLP to curated instances of diagnostic reasoning	36071325
+503	What can help address human coder errors?	Applying natural language processing (NLP) techniques	36006759
+107	What algorithm was used to explore 57 meaningful relationship rules among long COVID symptoms?	Apriori	36069846
+7	The complexity on the input and prediction sides has made extraction of chemical formulas challenging for what?	Artificial Intelligence and Machine Learning problems	36076301
+142	What has been used to diagnose several medical conditions as well as psychiatric disorders?	Artificial intelligence	36066938
+235	What does AB-LSTM stand for?	Attention-Based Bidirectional Long Short-Term Memory Networks	36059763
+420	How did authors code variables of interest in media reports?	Authors manually reviewed media reports for inclusion using the study definition and to code variables of interest	36031266
+179	What is the best way to solve this problem?	Automated Sanad evaluation using machine learning algorithms	36065202
+245	What is a tool that improves the previous neural network-based NER tool?	BERN2	36053172
+488	Which models consistently underperformed BERTweet?	BERT, TwitterBERT, BioClinical_BERT and BioBERT	36011135
+450	What can be combined with database approaches to increase prediction quality in almost all cases?	BERTax	36018838
+447	What is a deep neural network program based on natural language processing?	BERTax	36018838
+90	What model is proposed to extract biological local information on drug through learning embedding vector from different biological functional spaces?	BFGNN based on graph neural network	36070624
+87	What is the biomedical knowledge graph?	BKG	36070624
+310	What is LSTM?	Basic Long-Term Short-Term Memory	36046150
+226	What is an improved version of conventional LSTMs for generating the output from both left and right contexts at each time step?	Bi-LSTM	36060151
+225	What is the Bi-LSTM technique?	Bidirectional Long Short-Term Memory	36060151
+100	What are the 3 most common continuing and debilitating symptoms that patients with long COVID have reported?	Breathlessness, fatigue, and brain fog	36069846
+109	What did the study reveal about the social media discussions that could support a growing understanding of COVID?	CONCLUSIONS	36069846
+411	What caused mobile food delivery services to gain new prominence in our society?	COVID-19 global pandemic	36031976
+97	What is a major public health crisis that negatively affects human health and well-being?	COVID-19 pandemic	36069846
+455	What test was used to assess verbal learning in children with PAE?	California Verbal Learning Test-Children's Version	36016474
+110	What is the foundation for advancing medical sciences?	Clinical trial protocols	36068551
+528	Who assessed and confirmed model performance?	Clinician	36004803
+189	What is a policy priority in many countries?	Closer integration of health and social care	36064471
+557	What is the name of the information retrieval platform at UCLH?	CogStack platform	36001371
+58	What can guide educational uses of case reports?	Computational approaches	36071325
+501	What is a common and flexible technique to quantify and make sense of qualitative data in psychological research?	Content analysis	36006759
+266	What were exploited as deep learning techniques?	Convolutional neural network (CNN) and Bi-GRU	36052029
+274	What was the deep-learning model constructed using?	Convolutional-Recurrent Neural Network	36050674
+74	What tool did a survey evaluate?	DAPR	36070785
+73	What did we transform for research purposes?	DAPR	36070785
+489	Which model significantly outperformed SAPT?	DAPT	36011135
+119	What statements were evaluated with SISS participation?	DEI	36068160
+121	What did this study evaluate?	DEI statement and SISS participation in general surgery residency programs	36068160
+0	What has revolutionized Computer Vision, Natural Language Processing, and Biomedical research?	Deep Learning	36085766
+88	What deep learning framework is proposed to fully exploit BKG fusing local-global information to improve the performance of DDIs prediction?	DeepLGF	36070624
+421	What was calculated across three types of violence?	Descriptive statistics	36031266
+194	What was used to examine whether experiencing integrated care altered these sentiments?	Difference-in-difference analysis	36064471
+463	What was found in children with PAE compared with controls?	Different brain-cognitive relationships	36016474
+71	What is DAPR?	Digital Analytic Patient Reviewer	36070785
+316	What is also included in this article?	Discussion of the problems the research team encountered with segmentation of the Chinese text data and accuracy check of the processed datasets	36045644
+256	Which model had superior performance on the prediction task?	DistilBERT	36052318
+85	What is a challenging task in drug development and clinical application?	Drug-drug interactions	36070624
+3	What dataset simplifies data access and management for Deep Learning?	EEG	36085766
+571	What does the ML tool use to extract clinical concepts from EHRs and standardize them to SNOMED CT?	EHRead technology	36000822
+566	What does EHR stand for?	Electronic Health records	36000822
+260	What is a subset of sentiment analysis?	Emotion detection	36052029
+374	What confirms the effectiveness of the proposed defender against some representative white-box and black-box adversarial attacks?	Empirical experiment results	36035322
+480	Who produced the free-text narratives about health clinic encounters?	English-speaking foreigners	36011816
+43	What is the planned language for text compression?	Esperanto	36080852
+40	What was the planned language for text compression?	Esperanto	36080852
+6	What was not in the top priority of Computer Vision tasks for a while?	Extraction of chemical formulas from images	36076301
+251	What measure of messaging quality provides estimates of therapists' demonstrated ability to convey psychotherapy's common factors?	Facilitative Interpersonal Skills Task for Text	36052318
+47	Who did we use data from?	Federation of State Medical Boards	36074543
+293	How many classification algorithms are utilized?	Four classification algorithms	36049412
+158	What did the systematic review of the literature conclude about the use of social media data for the diagnosis of psychotic disorders?	Future studies need to use more accurate methodologies to obtain unbiased results	36066938
+18	What is another popular natural language processing tool?	GloVe	36085232
+401	What languages is the medical language inspired by?	Greek and Latin	36032678
+456	What were tested in children with PAE?	Group differences in diffusion metrics and cognitive scores	36016474
+4	Who collected the first large-scale clinical EEG dataset?	Healthy Brain Network	36085766
+466	How many people commit suicide every year?	Hundreds of thousands	36011981
+438	What is the acronym for the International Anticholinergic Cognitive Burden Tool?	IACT	36029230
+231	Where is the Su Xin application located?	Jiangsu Province	36059763
+162	Where was data extracted from the EHRs between 2009 and 2020?	Kaiser Permanente Southern California	36066930
+357	What is another term for late negative response?	LNR	36038793
+372	What does LFW stand for?	Labeled Faces in the Wild	36035322
+478	What can reduce costly manual preprocessing and enable the analysis of extensive collections of experience-based narratives?	Language and domain-specific information extraction	36011816
+567	What methods were used to estimate severe asthma prevalence amongst asthmatic patients seen in hospital asthma units?	ML and traditional research methodologies	36000822
+446	What is the problem with BERTax?	Many genomic sequences cannot be classified at all or only with a high misclassification rate	36018838
+418	When were COVID-19-related WVEs searched?	March 1-October 31, 2020	36031266
+102	When were long COVID-related Twitter data collected?	May 1, 2020, to December 31, 2021	36069846
+323	What was the primary NLP development site?	Mayo Clinic	36044253
+324	Which hospital was the primary NLP development site?	Mayo Clinic	36044253
+559	What is the name of the natural language processing library at UCLH?	MedCAT	36001371
+404	What is the lightweight, post-processing module that simplifies compound terms into regular words using medical nomenclature?	MedTCS	36032678
+328	What algorithms were implemented and refined independently for both sites?	MedTagger-THA	36044253
+321	What is the name of the rule-based system used at Mayo Clinic?	MedTagger-total hip arthroplasty	36044253
+55	What does MII stand for?	Medical Informatics Initiative in Germany	36073490
+322	Where were the two external institutions studied?	Michigan Medicine and the University of Iowa	36044253
+182	What has created new and unique challenges for studying the human condition?	Mining	36061240
+332	What improved accuracies slightly for both approach and fixation?	Model refinement	36044253
+507	What type of simulation is used to model how four dataset characteristics influence content classification performance?	Monte-Carlo	36006759
+433	What is needed to reduce workplace violence related to COVID-19?	More research on workplace training for workers during public health crises	36031266
+99	What are the symptoms of long COVID syndrome?	Multiple symptoms characterize this syndrome	36069846
+460	What did participants with PAE score lower than unexposed peers on?	NEPSY-II Comprehension of Instructions and Phonological Processing	36016474
+550	What will we use in aim 2 to machine-annotate clinical progress notes?	NLP	36002210
+297	What is another name for Natural Language Processing?	NLP	36049148
+410	We expect that our study can be a stepping stone for the use of biomedical knowledge-driven resources in what?	NLP	36032678
+229	What type of techniques can be used to analyze public opinion?	NLP	36060151
+62	What type of algorithms identified clinically relevant categories?	NLP	36071325
+81	What helped to cope with the challenges of the COVID-19 data validation task?	NLP technology	36070785
+111	What is a fundamental and necessary step to process and standardize the unstructured text in clinical trials using Natural Language Processing techniques?	Named entity recognition	36068551
+13	What is often used to capture the complexity and richness of memory for naturalistic events?	Narrative recall paradigms	36085232
+49	Who created the word-emotion association lexicon?	National Research Council Canada	36074543
+9	What does NLP stand for?	Natural Language Processing	36076301
+193	What did we combine with supervised machine learning to construct a measure of sentiment for care home residents?	Natural Language Processing	36064471
+513	What was used to analyze TSIA transcripts?	Natural Language Processing	36004863
+35	What framework helped screen irrelevant studies while following the PRISMA methodology?	Natural Language Processing (NLP)	36080901
+258	What can be applied to develop new quality assurance systems in message-based digital psychotherapy?	Natural language processing	36052318
+319	What are powerful tools for extracting and analyzing critical information from free-text data?	Natural language processing (NLP) methods	36044253
+388	Where is the knowledge graph hosted?	Neo4j	36034595
+424	How many workplace violence events could not be assigned to a specific type of violence?	Nineteen	36031266
+380	What is needed to determine the population at risk for suicide?	Novel and rigorously designed strategies	36035036
+146	When did the systematic review of the literature begin?	November 12, 2021	36066938
+578	What does OBIS stand for?	Ocean Biodiversity Information System	35999848
+147	What criteria was used to identify, select, and critically assess the quality of relevant studies while minimizing bias?	PRISMA	36066938
+169	What can the computerized algorithm be used for?	PTL- or PTB-related pharmacoepidemiologic studies and patient care reviews	36066930
+379	Who has difficulty in timely identification of patients at risk for suicide?	Physicians	36035036
+287	What causes malaria?	Plasmodium falciparum	36049412
+479	In what country did the research aim to elicit free-text narratives about experiences with health services of international students?	Poland	36011816
+76	What does PVP stand for?	Positive Predictive Value	36070785
+452	What is PAE?	Prenatal alcohol exposure	36016474
+159	What represents a significant public health problem in the United States and throughout the world?	Preterm birth	36066930
+457	What was used to reduce redundancy in cognitive and behavior variables?	Principal component analysis	36016474
+36	What databases did NLP automatically search and filter?	PubMed, Springer, ACM, IEEE Xplore, MDPI, and Elsevier	36080901
+385	What does RD stand for?	Rare diseases	36034595
+127	What should programs do to improve the visibility of their DEI efforts to recruit a diverse resident class?	Residency programs should continue to improve the visibility of their DEI efforts to recruit a diverse resident class	36068160
+487	Which model outperformed BERTweet on most tasks?	RoBERTa	36011135
+491	What are excellent off-the-shelf models for health-related social media text classification?	RoBERTa and BERTweet	36011135
+551	What is the acronym for Stratification Tool for Opioid Risk Mitigation?	STORM	36002210
+141	What is a disease associated with high burden?	Schizophrenia	36066938
+259	What is a method to identify people's attitudes, sentiments, and emotions towards a given goal?	Sentiment analysis	36052029
+80	What was discussed in the survey?	Some validation difficulties	36070785
+552	Who granted ethics approval for this study?	Stanford University Institutional Review Board and the Research and Development Committee of the VA Palo Alto Health Care System	36002210
+465	What is a major public-health problem that exists in virtually every part of the world?	Suicide	36011981
+249	What is available at Bioinformatics online?	Supplementary data	36053172
+267	What is used as a machine learning approach?	Support vector machine	36052029
+360	What is a crucial method for clinicians and policymakers to make their decisions in a flood of new clinical studies?	Systematic literature review	36038066
+542	What is another name for the text-to-text transfer transformer model?	T5	36002778
+128	Who counsels healthcare professionals and patients about medication use during pregnancy and lactation?	The Dutch Teratology Information Service Lareb	36067870
+2	What is a crucial aspect of allowing the experimentation of Deep Learning models?	The availability of large-scale datasets	36085766
+176	What plays a vital role in deciding the authenticity of Islamic hadiths?	The chain of narrators	36065202
+156	What is promising?	The use of social media data for the diagnosis of psychotic disorders	36066938
+539	What is another new DL architecture that has been increasingly applied to improve the process?	Transformers	36002778
+227	What social media platforms did we use to test the Bi-LSTM method?	Twitter and Reddit	36060151
+101	What did the study aim to understand?	Twitter social media platform	36069846
+432	What did this analysis show about workplace violence prevention strategies?	Typical workplace violence prevention strategies may not be effective in reducing COVID-19-related violence	36031266
+15	What does USE stand for?	Universal Sentence Encoder	36085232
+556	Where is the CogStack platform deployed?	University College London Hospitals	36001371
+298	Where did Coronavirus disease 2019 start?	Wuhan, China	36046150
+499	What model showed the potential application of NLP techniques for routine and automatic screening of patients with high risk of intracranial artery stenosis	XLNet	36010232
+451	What does BERTax allow precise taxonomic classification of?	a broader range of genomic sequences	36018838
+46	What did we compare a consumer-generated measure of physician quality with?	a clinical quality outcome	36074543
+426	Who were most workplace violence events related to COVID-19 perpetrated by?	a customer or client	36031266
+345	What supported the findings of the present study?	a follow-up analysis	36041853
+444	What is taxonomic classification mainly based on?	a genome similarity search of large genome databases	36018838
+387	What has been accumulated in recent years that offers opportunities to utilize these publications for accessing the full spectrum of the scientific research and supporting further investigation in 	a large volume of RD-related publications	36034595
+213	What did we use to map disease activity scores to our new score?	a linear interpolation	36062781
+288	What was used to diagnose malaria-infected cells?	a microscope	36049412
+521	What could be a new avenue for inquiry?	a more patient-centric perspective	36004857
+569	What is the PAGE study?	a multicenter, controlled, observational study conducted in 36 Spanish hospitals	36000822
+210	What is the result of the fragmented process?	a multitude of disease activity scores	36062781
+220	What do we present in this article?	a repository containing datasets, analysis code, and some outputs related to a paper in press	36060819
+54	What is GRASCCO a synthetic corpus resulting from?	a series of alienation steps	36073490
+275	What were the performance metrics for the deep-learning model?	accuracy, precision, sensitivity, micro-AUROC, and AUPRC	36050674
+347	What type of processing dominates cortical speech tracking?	acoustic	36041853
+364	What is imposed on training instances in the loss function to improve model recall and F1 score?	adaptive weights	36038066
+386	What has greatly improved our understanding of RD?	advanced big data analytic approaches in genetics/genomics	36034595
+369	Face verification is subject to what?	adversarial attack	36035322
+371	What does ApaNet stand for?	adversarial perturbations alleviation network	36035322
+363	What did we first design for automated construction of high-quality intervention labels?	algorithm	36038066
+183	What can lead to dangerous assumptions about and implications for marginalized communities?	algorithms lack the ability to accurately interpret off-line context	36061240
+341	What does ENV stand for?	amplitude envelope	36041853
+442	What is needed to assess the anticholinergicity of medications?	an anticholinergic burden calculator	36029230
+368	How can an attacker deceive DNNs in computer vision?	an attacker can easily deceive DNNs by contaminating an input image with perturbations imperceptible to humans	36035322
+217	How did we convert existing criteria into the AS135 criterion?	an interpolation was calculated	36062781
+512	What is a powerful tool to reveal emotional processing?	analysis of sequences of words and prosody, meter, and rhythm	36004863
+496	What was assessed in this study?	angiography reports from two independent medical centers	36010232
+434	What do many medications possess?	anticholinergic activity	36029230
+532	What were essential features predicting ARs?	antihistamines or glucocorticoids	36004803
+392	What did the study make use of?	archival data	36033023
+327	What did we apply the refined MedTagger-THA to to further assess the model specificity for approach and fixation?	arthroscopic hip procedures and periacetabular osteotomy cases	36044253
+280	What did this fMRI study investigate the effect of seeing while listening to a naturalistic narrative stimulus?	articulatory movements of a speaker	36049699
+334	What have researchers used to analyze social media data for public health surveillance?	artificial intelligence	36042870
+383	What has gained momentum recently?	artificial intelligence (AI)-based predictive technologies	36035036
+238	What is needed for the de novo generation of novel reactions?	artificial intelligence technology	36056425
+538	What are DL models based on?	artificial neural networks (ANN) and convolutional neural networks (CNN)	36002778
+103	What technique was used to identify frequent symptoms and establish relationships between symptoms among patients with long COVID?	association rule mining	36069846
+354	What do children with autism often show for speech and language processing?	atypical brain lateralization	36038793
+170	What do auditory language comprehension recruit cortical regions that are close to sensory-motor landmarks?	auditory and motor features	36066439
+140	What is possible without sacrificing the selection performance?	automatic preselection of relevant abstracts using machine learning	36067870
+353	What is a major contributor to greenhouse gas emissions?	automobiles	36039080
+22	What does BoW stand for?	bag-of-words	36080906
+509	What two dataset characteristics had a strong effect on classification performance?	base rate and human coder reliability	36006759
+26	What did the proposed N-CORAL method achieve with BoW and data augmentation?	best arousal and valence prediction accuracy	36080906
+8	What was not easy to classify because the provided sample was not representative of the given molecule?	binary input image	36076301
+246	What is an example of a task for which BERN2 can help annotate large-scale biomedical texts?	biomedical knowledge graph construction	36053172
+105	What were the most frequent symptoms among tweets included in our study?	brain fog	36069846
+506	What do we do with an existing database of human content codes?	build an NLP algorithm	36006759
+519	What is one aspect of worse physical health?	cardiovascular and metabolic health	36004857
+161	What does CL stand for?	cervical length	36066930
+208	What does the reduction in stuttering found during metronome-paced speech have to do with AWS?	changes in auditory motor integration	36063640
+237	Deep learning methods have demonstrated their significance in what field?	chemical field	36056425
+89	What does DeepLGF first obtain through a natural language processing algorithm?	chemical local information on drug sequence semantics	36070624
+315	What are the processes for collecting the text data and meta data?	cleaning, annotating and tagging	36045644
+68	Who can use the reasoning-encoded CPC case database to design a case-based curriculum?	clinician-educators	36071325
+464	What did PAE lead to in children with PAE?	cognitive difficulties	36016474
+435	What serious adverse effects are associated with the use of anticholinergic medications?	cognitive effects	36029230
+201	What symptoms are now recognized as key determinants of a patient's quality of life?	cognitive impairment, fatigue, walking impairment and falls risk	36063731
+192	How did we use unique data from on-line care home service reviews?	combined multiple methods	36064471
+23	What has yet to be explored for the task of cross-language speech emotion recognition?	combined use	36080906
+206	What did ANS show to the perturbation by the end of the perturbed vowel?	compensatory response	36063640
+42	What did the authors compare the text compression results with?	compression time and the volume of the text before and after compression	36080852
+86	What is getting lots of attention in the pharmaceutical industry and academia?	computer-aided DDIs prediction methods	36070624
+313	What is a learner corpus?	computerized web-based repository of written texts produced by language learners	36045644
+317	What features does the CELL Corpus come with?	concordance and word list features	36045644
+126	Programs with some degree of involvement with special interest societies were more likely to have statements that score higher in what?	confidence and positivity	36068160
+396	What did the other approach assess?	connections between the constructed responses and the texts that were read	36033023
+117	Findings from this study demonstrate the importance of what trained from domain-specific corpora?	contextual embeddings	36068551
+468	What are the challenges associated with early detection of suicidal ideation?	conventional suicide-risk screening methods	36011981
+98	What virus can cause long COVID syndrome?	coronavirus	36069846
+187	What type of data could these insights change how data scientists approach the development of?	corpora	36061240
+221	What does this paper present a comprehensive survey of?	corpora and lexical resources available for Turkish	36060268
+340	What does the present study aim to disentangle contributions to that reflect general acoustic processing from those that are functionally related to processing speech	cortical envelope tracking	36041853
+514	How were brain correlates of the capacity to translate emotional experience into words determined?	cortical thickness measures	36004863
+476	What do we discuss in the research of suicidal ideation detection?	current limitations and future directions	36011981
+508	What was the influence of sample size and unlabeled proportion on model classification performance?	curvilinear	36006759
+116	What shows that it is feasible to leverage additional corpora to improve NER performance?	data augmentation results	36068551
+474	What are some of the methods used to detect suicidal ideations on Reddit?	data collection, data annotation, data preprocessing, feature engineering, model development, and evaluation	36011981
+560	Data science tools are made available to support who?	data scientists	36001371
+352	What do Japanese firms possess many technologies that contribute to?	decarbonization	36039080
+533	What did removal of NLP features do to model performance?	decreased model performance	36004803
+537	What has been adapted for NLP experiments with promising results?	deep learning (DL)-based models	36002778
+93	What is used to train and predict drug-drug interactions?	deep neural network	36070624
+270	What did we develop for extracting primary lung cancer sites and metastatic lymph nodes and distant metastasis information from PET-CT reports?	deep-learning model	36050674
+370	What is the focus of this paper?	defending against the adversarial attack	36035322
+61	What did we map between cases?	degree of category overlap	36071325
+30	What other conditions can cause people to not take food or medicine regularly?	dementia, Alzheimer's disease, or other conditions may not take food or medicine regularly	36080901
+526	What data were retrieved from structured and unstructured EHRs?	demographics, new symptoms, medications, and lab results	36004803
+301	What emotions did many citizens who lost their loved ones and jobs experience?	disbelief, shock, concerns about health, fear about food supplies, anxiety, and panic	36046150
+292	What are some of the protein sequences formulation techniques used for transformation of protein sequences into numerical descriptors?	discrete methods, Biochemical, physiochemical and Natural language processing techniques	36049412
+174	What provides an organizing principle of functional differentiation within the cortex?	distance from sensorimotor regions	36066439
+186	What do we argue that involving young people as leads to more robust understandings of context?	domain experts	36061240
+547	What will be developed to enable automated extraction of concepts from clinical progress notes using natural language processing?	domain-specific ontology	36002210
+467	What is critical for suicide prevention?	early detection of suicidal ideation	36011981
+417	During what phase of the pandemic did this analysis identify and describe the characteristics of workplace violence events?	early phases	36031266
+79	What did participants feel about using DAPR for chart review?	easy	36070785
+32	What sensors help detect food intake episodes?	electrogastrography, cameras, microphones, and inertial sensors	36080901
+546	What are the four concepts of the Theory of Suicide not systematically recorded in?	electronic healthcare records	36002210
+1	In what field of neuroscience are researchers starting to explore leveraging deep learning to make predictions on their data without extensive feature engineering?	electrophysiological neuroimaging	36085766
+494	How many intracranial artery stenosis were identified in this study?	eleven	36010232
+150	What did the included studies present?	encouraging results	36066938
+540	What does NER stand for?	entity recognition	36002778
+343	What was always strongest for the ENV stimulus?	envelope tracking	36041853
+337	Who has a role in ensuring that researchers adhere to ethical principles of respect for persons, beneficence, and justice?	ethics committees	36042870
+56	What do we find that a claim can be made?	evidence	36073490
+330	What did MedTagger-THA algorithms demonstrate before model refinement?	excellent accuracy	36044253
+178	What does the acquired knowledge of Hadith Scholars require?	exertion and time	36065202
+203	What did this study aim to determine if it resolved auditory feedback processing disruptions?	external timing cues	36063640
+57	What are case reports important for clinical reasoning instruction?	externalize expert diagnostic reasoning	36071325
+561	What has the CogStack platform done at UCLH?	facilitated a number of research and service evaluation projects	36001371
+289	What can a huge number of instances for analysis and intricacy of time lead to?	false detection	36049412
+114	What did we examine in addition to the performance of the contextual embedding models?	feasibility of data augmentation approaches	36068551
+24	What is the goal of this paper?	fill this gap and compare the benefits achieved by combining different domain adaptation strategies with the BoW method, as well as with data augmentation	36080906
+155	Language models can be easily adapted to the classification task with a procedure called what?	fine-tuning	36066938
+205	What auditory feedback perturbation was applied on random trials?	formant	36063640
+184	Who were hired as domain experts for contextualizing social media data?	formerly gang-involved young people	36061240
+346	What did we use to isolate the speech-specific contribution to envelope tracking?	forward encoding models	36041853
+92	How many aggregating methods were designed in DeepLGF?	four	36070624
+308	How many annotators annotated three thousand tweets from our collected corpus?	four	36046150
+113	How many pre-trained contextual embedding models were investigated?	four	36068551
+350	How many studies did we study?	four	36041234
+212	How many classes were the cut-off values divided into?	four classes	36062781
+477	Evaluating patients' experience and satisfaction often calls for analyses of what?	free-text data	36011816
+181	What is the name of the dataset presented in this paper?	full hadith dataset	36065202
+400	What do the linguistic rules of medical terminology assist in?	gaining acquaintance with rare/complex clinical and biomedical terms	36032678
+185	Who is the Gang Intervention and Computer Science Project a comprehensive analysis of Twitter data from?	gang-involved youth	36061240
+172	What might increase the fidelity of sensory processing?	greater proximity to input regions	36066439
+16	What is the name of the two independent raters used to score narrative recalls?	hand scored	36085232
+17	What measure did USE's automated segmentation approach reflect?	hand scoring	36085232
+175	What is the term for the DNM and language network?	heteromodal	36066439
+168	What did validation against the algorithm achieve?	high level of accuracy	36066930
+75	What were the concepts for COVID-19 positive cohort, COVID-19 index date, COVID-19 related admission, and the admission date shown	high values	36070785
+518	What do individuals with schizophrenia have?	higher mortality and shorter lifespans	36004857
+137	What did our model achieve compared to the human raters' team?	higher sensitivity	36067870
+395	What did one approach assess?	how readers established connections with themselves	36033023
+96	Where is the webserver of the DeepLGF predictor freely available?	http://120.77.11.78/DeepLGF/	36070624
+247	Where is BERN2 publicly available?	http://bern2.korea.ac.kr	36053172
+248	Where can BERN2 be installed locally?	https://github.com/dmis-lab/BERN2	36053172
+391	What was the goal of this study?	if these relationships were consistent across texts and samples collected at different institutions and texts	36033023
+399	What is discussed in this study?	implications of the results for theory and practice	36033023
+144	Social media data could be used to do what?	improve diagnostic capabilities	36066938
+483	What was the goal of pretraining strategies for social media-based health-related text classification tasks?	improve machine learning performance	36011135
+305	What did the approach to balance the biased dataset do?	improve the performance of tweet classification	36046150
+290	Why are automated parasite detection technologies in high demand?	increased time consumption and erroneous detection	36049412
+412	What has the understanding of user experience in improving mobile food delivery services gained?	increasing importance	36031976
+171	What is the responsiveness of cortical regions in task-based functional MRI related to?	individual differences in their physical distance to primary sensorimotor landmarks	36066439
+344	What was a positive relationship between?	intelligibility and the tracking of the perceived speech	36041853
+362	What is a key information for literature screening?	intervention	36038066
+349	What types of processes can empathy have ramifications for?	intra- and interpersonal	36041234
+219	What did we develop an application for clinicians that enables the use of a single disease activity score for different inflammatory rheumatic diseases	intuitive scale	36062781
+291	What is needed to create effective cures and treatments?	it is critical to use an accurate approach for predicting malaria parasite	36049412
+230	How long does it take for psychological workers to classify the psychological problems of college students?	it takes a lot of time and energy for psychological workers to classify the psychological problems of college students	36059763
+190	What has the COVID-19 pandemic reinforced the necessity of?	joining up health and social care systems	36064471
+91	What method is used to extract global feature information from the BKG?	knowledge graph embedding method	36070624
+502	What is the practical implementation of content analysis?	labor-intensive	36006759
+279	What did the deep-learning method alleviate?	laborious annotation by clinicians	36050674
+269	What has limited the usability of previous radiologic-text reports?	laborious annotations	36050674
+152	What were the main limitations of the included studies?	lack of access to clinical diagnostic data, small sample size, and heterogeneity in study quality	36066938
+173	Which parcels were more active for the story task?	language and default mode parcels	36066439
+515	What did individuals with deficits in identifying and describing emotions produce?	language distortions	36004863
+454	What did participants complete from the NEPSY-II?	language subtests	36016474
+326	What were error analyses conducted to understand?	language variations across sites	36044253
+143	What does AI require to be efficient?	large amounts of data	36066938
+312	What is a systematic computerized web-based repository of written texts produced by language learners?	learner corpus	36045644
+516	Where did individuals with deficits in identifying and describing emotions show high cortical thickness?	left temporal pole	36004863
+397	What were the comparisons made by assessing?	lexical (i.e., word matching) and semantic (i.e., high dimensional semantic spaces) comparisons	36033023
+565	What is the data on severe asthma prevalence?	limited	36000822
+520	What has been the overall effectiveness of interventions to improve the health of individuals with schizophrenia?	limited effectiveness in improving quality of life or lifespan	36004857
+215	What did we use to build the AS135 score modification for each selected score?	linear interpolation of the existing criteria	36062781
+311	What did we filter tweets that were ambiguous to the annotators based on?	low Fleiss Kappa agreement between annotators	36046150
+376	Mental illness leading to suicide attempts is prevalent in a large portion of the population especially in what nations?	low and middle-income	36035036
+338	Research on natural speech processing has benefited from recognizing that what tracks the amplitude envelope of natural speech?	low frequency cortical activity	36041853
+458	What did children with PAE have?	lower MD in the right SLF compared with unexposed controls	36016474
+265	What is a hybrid model to identify emotions in text?	machine learning + deep learning	36052029
+255	What type of algorithms were trained on task-taker messages and coder scores?	machine learning algorithms	36052318
+309	What methods were used to build predictive models of hate speech?	machine learning and deep learning methods	36046150
+335	What have researchers used to examine public knowledge and behavior?	machine learning and natural language processing	36042870
+470	What does research apply to detect suicidality among social media and forum users?	machine learning and natural language processing techniques	36011981
+472	What techniques were used to detect the presence of suicidal ideations on Reddit?	machine learning and natural language processing techniques	36011981
+21	What is a promising tool for scoring large-scale narrative recalls?	machine learning approach implementing USE	36085232
+130	What did we aim to develop to predict the relevance of PubMed entries?	machine-learning algorithm	36067870
+427	What gender were most perpetrators of workplace violence events?	males	36031266
+361	Why has automation of literature screening been welcomed?	manual literature screening in SLR is a highly laborious task	36038066
+428	What were the majority of workplace violence events related to?	mask disputes	36031266
+430	What may be useful for workplace violence surveillance?	media scraping	36031266
+250	What has been shown to be effective in treating a range of mood disorders?	message-based therapy	36052318
+207	What condition significantly reduced the disfluency rate?	metronome-paced	36063640
+300	How many lives were affected by Coronavirus disease 2019?	millions of people	36046150
+218	What type of application did we create?	mobile	36062781
+239	What was the task of reaction generation inspired by?	molecular generation	36056425
+151	What could social media data be used to care for patients with schizophrenia?	monitoring of patients after the first episode of psychosis	36066938
+286	What involves sites of multisensory integration and many regions of the wider semantic network?	multisensory enhancement	36049699
+284	What did we find in an extensive network of regions underlying multisensory integration?	multisensory enhancement	36049699
+406	What does NER stand for?	named entity recognition	36032678
+244	What are two key tasks in biomedical natural language processing?	named entity recognition (NER) and named entity normalization (NEN)	36053172
+12	What is an example of a naturalistic stimuli that characterizes memory, affect, and decision-making?	narrative movies	36085232
+524	What does NLP stand for?	natural language processing	36004803
+59	What does NLP stand for?	natural language processing	36071325
+536	What can facilitate automatic information extraction and transformation of free-text formats to structured data?	natural language processing (NLP) techniques	36002778
+263	What have several methods been proposed to identify emotions from text using?	natural language processing (NLP) techniques	36052029
+403	What does the nomenclature of medical terminology do?	natural language processing models misrepresent rare and complex biomedical words	36032678
+564	What does the CogStack platform enable the hospital to unlock important clinical information from the unstructured portion of the record?	natural language processing technology	36001371
+461	What type of association did children with PAE have with Speeded Naming?	negative	36016474
+51	What is the sentiment in text reviews more for women who will be sanctioned than for men who will be sanctioned?	negative	36074543
+195	What was used to assess which specific attributes stakeholders focus on most when detailing their most/least positive experiences of health and care integration in care homes?	network analysis	36064471
+517	What pattern of the expression of emotional experience was identified?	neuro-linguistic	36004863
+45	Is there a link between web-based ratings and quality of care?	no study has linked web-based ratings with quality of care	36074543
+449	What does BERTax clearly outperform any existing approach?	novel organisms	36018838
+84	What do we plan to do with DAPR?	operationalize it for wider research groups	36070785
+83	What can DAPR's benefit be expanded to?	other domains	36070785
+20	What did we find in Study 2?	our automated approach was equally reliable across both age groups and anxiety groups	36085232
+562	How many records has the CogStack platform processed to date?	over 30 million	36001371
+381	What is the first step in determining the population at risk for suicide?	overcoming the multitude of barriers in the management of mental illness	36035036
+48	What did we implement to identify words that are specific to and indicative of separate groups of physicians?	paragraph vector methods	36074543
+378	Why are patients reluctant to communicate their problems to health care providers?	patients are reluctant to communicate their problems to health care providers	36035036
+580	What do the combined DB and TMO species richness curves document for the first time?	peaks in the temperate zones	35999848
+553	Where will the results of the study be disseminated?	peer-reviewed publications and presentations at national conferences	36002210
+358	What were the LNR effects not present for?	phoneme-free prosodic acoustics	36038793
+52	Who may revisit their platform design?	platform architects	36074543
+348	In what type of political environment do partisans tend to deploy empathy parochially?	polarized	36041234
+78	What attitude did participants have towards using DAPR for chart review?	positive	36070785
+11	What do the authors mention?	possible problems for various scenarios	36076301
+282	What is a region that underlies the integration of auditory and visual information?	posterior superior temporal gyrus	36049699
+408	On what do our results indicate that incorporating a medical terminology-based module provides distinctive contextual clues to enhance vocabulary?	pre-trained embeddings	36032678
+112	What did we fine-tune to support the NER task on clinical trial eligibility criteria?	pre-trained language models	36068551
+131	What type of model did we fine-tune to identify relevant entries?	pre-trained natural language processing transformer	36067870
+233	What was word segmentation used for?	preprocessing of research data	36059763
+482	What did we seek to evaluate the effectiveness of for social media-based health-related text classification tasks?	pretrained transformer-based models	36011135
+573	The proportion of SA phenotypes and the features of followed-up patients were consistent with what?	previous studies	36000822
+223	What is the purpose of this paper?	providing information about the available linguistic resources	36060268
+273	What was used for training the model?	pseudo-labelling	36050674
+504	Who do we explain and illustrate NLP techniques to?	psychological researchers	36006759
+299	What did the disease cause governments worldwide to declare?	public health crisis	36046150
+222	What type of resources are reviewed in this paper?	publicly available	36060268
+188	What do we integrate domain insights into the training of?	qualitative annotators	36061240
+548	What component of the study informs quantitative analyses?	qualitative component	36002210
+302	What did all of the aforementioned phenomena lead to the spread of?	racism and hate against Asians	36046150
+535	Why is extracting relative information for further analysis difficult?	radiology reports needed for clinical practice and research are written and stored in free-text narrations	36002778
+534	How can NLP algorithms identify transfusion reactions from the EHR?	reasonable level of precision	36004803
+209	Many study groups have developed scores to do what?	reflect disease activity	36062781
+462	What type of differences in brain metrics and associations with age were found in children with PAE?	relatively limited	36016474
+576	What did the findings of the PAGE study offer for further research?	relevant insights	36000822
+295	What do the simulated results demonstrate about the proposed model?	remarkable achievement	36049412
+180	What type of Sanad dataset is required?	representative	36065202
+445	What must be present for taxonomic classification?	representative relatives	36018838
+82	What did the use of NLP technology in the chart review help us do?	respond to the COVID-19 crisis	36070785
+27	What was N-CORAL combined with BoW shown to provide across languages?	robustness	36080906
+198	What was pivotal in both positive and negative reviews?	role of care home staff	36064471
+495	What three NLP models were developed and evaluated by internal-external cross-validation?	rule-based model, a recurrent neural network (RNN), and a contextualized language model, XLNet	36010232
+44	What is the confirmation by scientific methods that Esperanto is more optimal for text compression?	scientific added value of the paper	36080852
+389	What did the KG demonstrate in RD?	scientific contribution	36034595
+177	The investigation and validation of Sanad fully depend on who?	scientists	36065202
+296	The proposed model may be an effective tool for discriminating what types of proteins of malaria parasite?	secretory and non-secretory proteins	36049412
+264	Keyword and lexicon-based approaches focus on what?	semantic relations	36052029
+38	Cameras, inertial, and acoustic sensors are what?	sensors	36080901
+414	What has notable effects on user satisfaction with mobile food delivery services?	sentiment dimension factors	36031976
+475	What did we present in the literature review?	several Reddit-based datasets utilized to construct suicidal ideation detection models	36011981
+224	What can people concerned about public health issues do on social media?	share and discuss information/misinformation with each other	36060151
+157	What did most of the included studies have?	significant biases	36066938
+415	What do we examine in this study?	significant implications and present the limitations of the study	36031976
+402	What does the nomenclature of medical terminology aid stakeholders in?	simplifying the medical terms and gaining semantic familiarity	36032678
+134	How many experienced human raters evaluated the model's performance?	six	36067870
+484	How many transformer-based models were benchmarked on 22 social media-based health-related text classification tasks?	six	36011135
+204	How many adults who do not stutter read aloud a multisyllabic sentence?	sixteen	36063640
+307	How much of the tweets were used in this study?	small portion	36046150
+333	What type of technology has increased people's use of?	social media	36042870
+261	In recent times, many researchers have already worked on what for emotion recognition?	speech and facial expressions	36052029
+339	What does low frequency cortical activity track beyond the analysis of stimulus acoustics?	speech-specific processing	36041853
+579	What do we use to present latitudinal species richness curves?	standard estimators	35999848
+448	BERTax is at least on par with what when taxonomically similar species are part of the training data?	state-of-the-art approaches	36018838
+153	What do we recommend using to model social media activity?	state-of-the-art natural language processing neural networks	36066938
+481	Pretrained contextual language models have been reported to achieve what in many natural language processing tasks?	state-of-the-art performances	36011135
+200	What does NLP stand for?	state-of-the-art transformer-based machine learning technique for natural language processing	36063731
+50	What did we find?	statistically significant differences in the sentiment and emotion of reviews between male and female physicians	36074543
+500	What did the NLP models have a prevalence of?	stenosis case distributions	36010232
+318	What will inform future development of learner corpora of different languages?	steps and processes	36045644
+377	What can a social stigma associated with mental illness lead to?	stigmatization of patients	36035036
+28	What type of lifestyles do individuals today have that affects their nutritional habits?	stressful	36080901
+492	Patients with intracranial artery stenosis show high incidence of what?	stroke	36010232
+359	The results extended the findings of inadequate neural specialization for language in autism to what?	sub-lexical prosodic structures	36038793
+549	Who will manually annotate progress notes of clinical encounters with veterans who attempted or died by suicide?	subject matter experts	36002210
+375	Experimental results show what of the ApaNet compared with several currently available techniques?	superiority performance	36035322
+294	What is BCH error correction code incorporated with?	support vector machine	36049412
+281	Under what type of conditions did the fMRI study aim to identify regions of the language network showing multisensory enhancement?	synchronous audiovisual	36049699
+154	What is a necessary constraint to train unbiased classifiers?	synthetic minority oversampling technique	36066938
+29	Who begins to exhibit bad habits and inadequate nutrition in the early stages of life?	teenagers	36080901
+115	How much cross-validation did domain-specific transformer models achieve better performance than general transformer models?	tenfold	36068551
+320	What is MedTaggerIE based on?	text patterns	36044253
+577	What is another name for cheilostome bryozoan species?	text-mined occurrences (TMO)	35999848
+285	What was involved along the visual and auditory pathways more commonly associated with early sensory processing?	thalamic brain regions	36049699
+31	What could be beneficial for people with dementia, Alzheimer's disease, or other conditions?	the ability to monitor	36080901
+366	Where can the proposed algorithms boost automation of literature screening during SLR?	the clinical domain	36038066
+25	Which domain adaptation strategy requires knowledge of the test data language?	the correlation alignment (CORAL) method	36080906
+505	What does the study explore?	the creation of psychometrically meaningful predictions of human content codes	36006759
+563	What can the CogStack platform handle?	the data ingestion and harmonization challenges faced by a hospital	36001371
+34	What is the focus of the systematic review of the use of technology for food intake detection?	the different sensors and methodologies used	36080901
+10	What does this paper describe?	the evolution of approaches from rule-based structure analyses to complex statistical models	36076301
+325	What did the activities at the two deployment sites include?	the extraction of the operative notes, gold standard development	36044253
+575	What is the conclusion of the PAGE study?	the first to estimate SA prevalence, in a hospital population of asthma patients, and to predict patient outcomes using both standard and ML techniques	36000822
+216	What was the score modification defined on?	the interval [0,10], and values of 1, 3 and 5 were used as thresholds	36062781
+373	What is the discrepancy between an image output by ApaNet and the supervision calculated as?	the loss function	36035322
+39	What does this research identify?	the most used sensors and data processing methodologies to detect food intake	36080901
+510	What do we offer practical recommendations to psychologists on to achieve valid prediction of content codes?	the necessary dataset characteristics	36006759
+390	What was the goal of this study?	the relationships between computational approaches to analyzing constructed responses made during reading and individual differences in the foundational skills of reading in college readers	36033023
+139	The human selection of the latest relevant literature is indispensable to keep what up to date?	the teratology information	36067870
+443	What are the scores assigned to medications based on?	their chemical structure and reported adverse pharmacological effects	36029230
+77	How many phenotypes were removed from the data mart?	three	36070785
+94	How many prediction tasks did DeepLGF test?	three	36070624
+95	How many cases of cancer-related drugs showed DeepLGF's superior ability for potential DDIs prediction?	three	36070624
+490	How many tasks did SAPT + TSPT show statistically significant improvement in?	three	36011135
+382	How long are clinical tools and the use of electronic medical records?	time intensive	36035036
+14	Is scoring narrative recalls time-consuming or prone to human biases?	time-consuming and prone to human biases	36085232
+145	What is the objective of our study?	to analyze the current capabilities of AI to use social media data as a diagnostic tool for psychotic disorders	36066938
+394	Why were the protocols analyzed?	to assess two different ways to determine their cohesion	36033023
+118	What was the purpose of this study?	to characterize the nondiscrimination and diversity, equity, and inclusion (DEI) statements found on the websites of general surgery residency programs	36068160
+148	Why did we critically analyze the methodology of the studies?	to detect any bias	36066938
+469	Why are people turning to social media and online forums such as Reddit?	to express their feelings and share their struggles with suicidal thoughts	36011981
+471	What is the objective of this paper?	to investigate methods employed to detect suicidal ideations on the Reddit forum	36011981
+554	Why is it important for more health care organizations to use electronic health record systems?	to maximize the secondary use of their data to support service improvement and clinical research	36001371
+228	What can the proposed model be used by official institutions?	to mitigate the effects of negative messages and to understand peoples' concerns during the pandemic	36060151
+384	What is the aim of this review?	to summarize the recent advances in this landscape	36035036
+242	Why were further organic synthesis experiments performed?	to verify the accuracy and feasibility of representative reactions	36056425
+262	What cues are missing in speech?	tonal stress, facial expression, pitch, etc	36052029
+522	What is a type of Natural Language Processing (NLP) on unstructured speech samples?	topic modeling	36004857
+485	What is TSPT?	topic specific pretraining	36011135
+252	What does the FIS-T's scoring procedure rely on to manually code responses?	trained human coders	36052318
+253	How many algorithms were developed to automatically score therapist performance on the FIS-T task?	two	36052318
+574	How many predictive models did the ML tool find with discriminatory potential to predict outcomes?	two	36000822
+271	How many patients with lung cancer who were diagnosed at a tertiary hospital between January 2004 and March 2020 received PET-CT reports?	two cohorts	36050674
+191	What is the meaning and perceived importance of integration for residents' and carers' experience?	unclear	36064471
+431	What did the pandemic result in?	unique violent events	36031266
+66	What is the name of the website that allows visualization and exploration of 55 years of NEJM CPC case series?	universeofcpc.com	36071325
+523	How can transfusion-related adverse events be classified?	unrecognized and unreported	36004803
+527	Evidence from clinicians' notes, test results, and prescriptions fields identified transfusion ARs in what type of data?	unstructured data	36004803
+555	What type of data can be harnessed in an EHR?	unstructured data fields	36001371
+5	What do we demonstrate in this dataset?	use case integrating this framework	36085766
+413	What does the natural language processing methods used to extract user experience factors significantly improve with mobile food delivery services?	user satisfaction	36031976
+342	How did we obtain some control over which speech stimulus was recognized by the listener?	varying the number of frequency bands used in making the chimeras	36041853
+409	What does the proposed module enables the word embedding models to generate?	vectors of out-of-vocabulary words effectively	36032678
+124	What has forced applicants to rely heavily on surgery residency websites as their main source of information?	virtual interviewing	36068160
+486	How did we interpret the impacts of distinct pretraining strategies?	visualizing document-level embeddings at different stages of the training process	36011135
+398	What were both approaches for analyzing cohesion and making comparisons correlated with?	vocabulary knowledge and comprehension proficiency	36033023
+393	What did the participants take assessments of?	vocabulary knowledge and proficiency in comprehension	36033023
+138	What did the team of human raters show?	weak to moderate levels of agreement in their article classifications	36067870
+129	How often does the Dutch Teratology Information Service Lareb perform a PubMed query?	weekly	36067870
+19	What did Study 2 test?	whether our automated approach remained valid when testing individuals varying on clinically relevant dimensions that influence episodic memory, age, and anxiety	36085232
+232	What were used for the preprocessing of research data?	word segmentation, removal of stop words, establishment of word vectors, etc.	36059763
+416	What does WVE stand for?	workplace violence events	36031266
+41	In what notation was Esperanto and Esperanto used?	x notation	36080852
