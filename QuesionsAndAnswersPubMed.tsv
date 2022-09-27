@@ -1,0 +1,368 @@
+	question	answer	id
+0	What is necessary to prevent heart damages?	timely access to cardiovascular health services	2
+1	What did the present study examine?	inequality in geographical distribution of cardiovascular health services in iran	2
+2	How many provinces are in iran?	31	2
+3	What was used to assess equality in access to cardiovascular health services in iran?	gini coefficients	2
+4	What was used to calculate gini coefficients?	ms excel software	2
+5	What were the gini coefficients of ccu beds and cardiologists per 100,000 population?	0.129 and 0.045	2
+6	What did descriptive statistics show in distribution of pubic cardiovascular health services in iran?	skewness	2
+7	What does not mean they are sufficiently available in iran?	equal distribution of ccu beds and cardiovascular specialists	2
+0	To determine differences in the ability of what strains to withstand antituberculosis drug treatment?	mycobacterium tuberculosis	3
+1	What is the association between beijing and m. tuberculosis strains?	multidrug - resistant tuberculosis	3
+0	What is frequently associated with muscle - related symptoms?	backgroundstatin	5
+1	What has coenzyme q10 supplementation yielded conflicting results in?	decreasing statin myopathy	5
+2	What does coenzyme q10 reduce?	statin	5
+3	What did the control group receive?	placebo	5
+4	What was the pss score in the q10 group reduced from?	3.90.4 to 2.90.4	5
+5	What is the pain interference score?	pis	5
+6	What group did pss and pis not change?	placebo	5
+7	In what percentage of patients did coenzyme q10 supplementation decrease statin related muscle symptoms?	75%	5
+8	What were the relative values of pss and pis in the q10 group compared to the placebo group?	33.1% and 40.3%	5
+9	What is the recommended dose of coenzyme q10?	50 mg twice daily	5
+0	What is pca?	bone metastatic prostate cancer	8
+1	The patient derived xenograft model was established to model the disease with greater what?	fidelity	8
+2	What makes it difficult to manipulate pdx tumor cells for subsequent controlled mechanistic studies?	poorly adherent pdx tumor cells exhibit low viability in standard culture	8
+3	What was used to encapsulate pdx tumor cells?	hydrogel	8
+4	What is a chemotherapeutic drug?	docetaxel	8
+5	What is a diagnostic platform for rapid drug evaluation?	3d pdx pca model	8
+0	Why do organisms often use multiple procedures?	to perform tasks	9
+1	What is not always easy to explain about behavioural repertoires of ants?	breadth	9
+2	When do colonies of temnothorax albipennis ants use a range of behaviours to organise their emig	house hunting	9
+3	What do temnothorax albipennis ants use to recruit nave ants to potential nest sites?	tandem running	9
+4	What do temnothorax albipennis ants initially use?	forward tandem runs	9
+5	What do temnothorax albipennis ants use in the opposite direction?	reverse tandem runs	9
+6	What is used to teach active ants the route between the nests?	tandem runs	9
+7	When a quorum of decision makers at the new nest is reached, what do ants switch to?	carrying nestmates	9
+8	How much faster do ants switch to carrying nestmates when a quorum of decision makers at the new nest is reached?	three times faster	9
+9	What does having more ftrs early mean?	faster emigrations	9
+10	What do ants use that are both slow and late?	rtrs	9
+11	Who would use more ftrs to have enough knowledgeable ants to do all the carrying?	ants	9
+12	What is presented in this study?	the first testable theoretical explanation for the role of rtrs	9
+13	What strategy did we set out to find the theoretically fastest for a set of emigration conditions?	emigration	9
+14	When can rtrs have a positive effect on emigration speed?	if ftrs are limited	9
+15	What gives the fastest emigration?	low quorums together with lots of reverse tandem running	9
+0	What does takayasu's arteritis mainly involve?	medium to large sized arteries	11
+1	What is the prevalence of pulmonary artery involvement?	10% to 50%	11
+2	What is the cause of takayasu's arteritis?	right main pulmonary artery total occlusion	11
+0	What sensitizes mammary tumor cells to amino acid deprivation?	depletion of p62	14
+1	What does p62 abolish in vitro?	cellular transformation	14
+2	What kind of role does p62 play in her2-associated mammary tumorigenesis?	multifaceted	14
+0	What is fms?	fibromyalgia syndrome	15
+1	What visual pain scale was used to determine the severity of fibromyalgia syndrome?	vps	15
+2	What did bas stand for?	beck anxiety	15
+3	What was obtained from all participants?	electrocardiograms	15
+4	What was estimated to determine the risk of the atrial arrhythmia?	p - wave dispersions	15
+5	What was the pd of the patient group?	p=0.034	15
+6	What was detected in patients with fms compared to the control group?	increased pd	15
+7	What does af stand for?	increased risk of atrial fibrilation	15
+8	What is important to follow up patients in later ages for af risk?	fibromyalgia	15
+0	What is an important component of the multiple organ dysfunction syndrome?	gastrointestinal dysfunction	16
+1	Along with intolerance of enteral feeding and the development of what, reintam and colleagues attempted to quantify gastrointestinal dysfunction?	intra - abdominal hypertension	16
+2	What did reintam and colleagues combine with the development of intra - abdominal hypertension and the development of intra - abdominal hypertension?	intolerance of enteral feeding	16
+3	What did reintam and colleagues fail to develop a novel descriptor of?	gastrointestinal dysfunction	16
+4	What is reintam's work a welcome contribution to the complex process of describing?	morbidity of critical illness	16
+0	What is commonly treated with epidural injections of local anesthetics and corticosteroids?	lumbar spinal stenosis	18
+1	What does the majority of patients report over repeated treatment?	no substantial symptom change	18
+2	How many patients complained persistent symptoms despite repeated steroid injections?	three	18
+3	What may have potential in the nonsurgical treatment of spinal stenosis by modifying the underlying pathophysiology?	transforaminal decompression	18
+0	What is erm?	recurrent epiretinal membrane	20
+1	What age was the female who showed a spontaneous improvement in visual acuity?	65-year - old	20
+2	What was the visual acuity of a 65-year-old female after a recurrence of erm?	0.2	20
+3	What was the visual acuity after surgical removal?	0.8	20
+4	What is a characteristic andulating internal limiting membrane?	ilm	20
+5	What is rare but there is a possibility of recurrence even after spontaneous erm resolution?	spontaneous erm resolution	20
+0	What type of alopecia is presented?	frontal fibrosing alopecia with nail involvement	23
+1	What does nail involvement provide evidence for?	lichen planus	23
+2	What is an inflammatory reaction on the background of androgenetic alopecia?	oral dutasteride	23
+0	What is squamous cell carcinoma of the renal pelvis?	rare neoplasm	25
+1	How many cases of primary renal squamous cell carcinoma were treated at our hospital over a short span of one year?	four	25
+2	What was the mean age of the patients?	60 years	25
+3	What did all of the patients suffer from?	staghorn stones	25
+4	What was unsuspected clinically in all patients?	renal carcinoma	25
+5	What did a computerised tomography scan show in one case?	suspicious nodule	25
+6	What did all of the patients underwent for nonfunctioning kidney?	nephrectomy	25
+7	How many cases of renal squamous cell carcinoma were diagnosed on gross examination?	two	25
+8	What is needed during treatment for long standing nephrolithiasis?	pelvicalyceal biopsy	25
+0	Patients switched from nph insulin to a course of insulin glargine followed by what?	insulin detemir	27
+1	How long were daily glycemic profiles recorded?	72 hours	27
+2	There was no significant difference between the two insulin analogs in terms of what?	hypoglycemia	27
+0	What is another name for sperm immobilization factor?	sif	29
+1	What was sperm immobilization factor isolated from?	staphylococcus aureus	29
+2	What concentration of sperm immobilization factor inhibited the mg++ atpase activity of spermatozoa?	100 g ml1	29
+3	What induced acrosome reaction was reduced in sperm samples treated with sif?	calcium ionophore	29
+4	What was used to label sif with spermatozoa?	fluorescent microscopy	29
+5	What method was used to purify the sif binding receptor?	gel permeation chromatography	29
+6	What is maldi - tof?	matrix - assisted laser desorption ionization - time of flight	29
+7	What is the binding of the receptor to ligand?	enthalpically	29
+0	Which skin types accumulate senescent cells during aging?	human and mouse skin	30
+1	What are senescent cells thought to enhance when chronically present?	deterioration of the skin	30
+2	What promotes optimal wound healing when transiently present?	senescent cells	30
+3	What is the senescence - associated secretory phenotype?	sasp	30
+0	What is uae?	uterine artery embolization	31
+1	What was used to treat symptomatic uterine fibroids?	selective bilateral uae	31
+2	What was the success rate of bilateral uae?	96.8%	31
+3	What were analyzed after the procedure?	complications and outcomes	31
+4	How long did it take for patients to return to normal activity after embolization?	two weeks	31
+5	What did most patients experience after the procedure?	crampy pelvic pain	31
+6	How many participants had persisting amenorrhea after procedure?	five	31
+7	How many patients reported any new gynecologic or medical problem during the follow up period?	none	31
+8	How many deaths and injuries were there during the study?	no deaths and no major permanent injuries	31
+9	What was the reduction in mean uterine volume?	61%	31
+10	When did uterine artery embolization show significant improvement in bleeding?	follow - up	31
+11	What is a successful, minimal invasive treatment of uterine fibroids?	uterine artery embolization	31
+0	What has been widely authorized and clinically applied to cancer patients?	antibody mediated therapeutic strategies	32
+1	What does dc stand for?	dendritic cells	32
+2	mice were immunized with dcs and followed by repeated booster immunization with what?	plasmids	32
+3	Who produced significant amounts of antibodies against these proteins?	immunized mice	32
+4	What is an effective method to produce antibodies reactive to extracellular regions of plasma membrane proteins with multiple - transmembrane domains?	dc immunization	32
+0	What are heritable ectopic mineralization disorders characterized by?	deposition of calcium phosphate complexes in soft connective tissues	33
+1	What is the prototype of heritable ectopic mineralization disorders?	pseudoxanthoma elasticum	33
+2	What serves as a powerful inhibitor of mineralization?	ppi	33
+3	When were the latest meetings held in bethesda?	september 2014	33
+4	What does this report have for pxe and related ectopic mineralization disorders?	pharmacologic implications	33
+0	What is a major glycoprotein that is secreted from numerous types of cancer cells?	procathepsin d	34
+1	What does procathepsin d affect?	multiple stages of tumorigenesis	34
+2	What is the mitogenic effect of procathepsin d on cancer cells mediated through?	propeptide or activation peptide	34
+3	Recent studies have implicated the use of what as a marker of cancer progression?	procathepsin d / activation peptide	34
+4	How many major potentials of procathepsin d are there?	three	34
+0	How was rb-1 isolated into pure culture from japanese rice field soil?	anaerobic role tube technique	35
+1	What type of fungus is rb-1?	mitosporic fungus	35
+2	What was the amount of acetate produced in both aerobic and anaerobic cultures?	higher	35
+3	What type of genus is thermomyces?	thermophilic or mesophilic anamorphic ascomycete	35
+4	What was rb-1 characterized as a member of the class lecanoromycetes of the phylum ascomycot	phylogenetic analysis	35
+5	What is rb-1 currently designated as?	anamorphic ascomycete	35
+0	What does deferasirox represent in lower risk myelodysplastic syndromes?	iron chelator	36
+1	What is responsible for the hematologic improvement?	reduction in oxidative stress	36
+2	What are necessary to better define mechanisms of action, assess toxicities and predicting factors of response?	biological and clinical studies	36
+0	What is an uncommon high - grade neoplasm of immature b cells?	b - cell lymphoblastic lymphoma	37
+1	What are two extranodal involvements in b - lbl?	skin and bone	37
+2	What is a very rare manifestation of b - lbl in elderly adults?	primary cutaneous involvement	37
+3	How old was the man who had b - lbl presenting as a single cutaneous lesion?	78-year	37
+4	What is another name for prednisolone?	chop	37
+5	What was the total dose of radiotherapy given to the patient?	3,600 cgy	37
+6	How long did it take for the patient to maintain cr?	21-month follow	37
+0	What is rare?	mucoepidermoid carcinoma of the pancreas	38
+1	How old was the woman presented with mucoepidermoid carcinoma of the pancreas?	63	38
+2	Where was the mucoepidermoid carcinoma located?	left upper abdomen	38
+3	How many types of cells did the tumor consist of?	three types	38
+4	What types of cells were present in the patient's mucoepidermoid carcinoma?	epidermoid cells and intermediate undifferentiated cells	38
+5	How long did the patient survive after surgery?	12 months	38
+0	What could potentially constitute a major public health concern?	harmful effects of medication and licit substance use during pregnancy	40
+1	What was administered to women after delivery?	standardized questionnaire	40
+2	What was checked to confirm information given by mothers?	medical files	40
+3	What do our findings have implications for in lebanon?	clinical obstetric practice and prevention programs	40
+4	What should be done to reduce the exposure of pregnant women to drugs and licit substances during pregnancy?	decrease exposure to harmful substances during pregnancy	40
+0	What is renal cell carcinoma an uncommon source of?	bladder metastases	42
+1	What is an uncommon source of bladder metastases?	renal cell carcinoma	42
+2	Where did renal cell carcinoma metastasize to?	bladder	42
+3	Who complained of gross hematuria?	73-year - old woman	42
+4	What showed a bladder mass and a heterogenous enhancing mass in the lower pole of the left kidney with left vein thrombosis	abdominopelvic computerized tomography	42
+5	What did the pathological analysis of the resected bladder specimen reveal?	metastatic renal cell carcinoma of the clear cell type	42
+0	What uses several species of animal as reservoirs?	hepatitis e virus	43
+1	Which animal is considered as the major reservoir for hev infection in humans?	swine	43
+2	What is the dominant cause of hepatitis e disease in humans in china?	genotype 4 hev	43
+3	What is rt - pcr?	reverse transcription polymerase chain reaction	43
+4	What was sequenced and phylogenetically analyzed?	positive pcr products	43
+5	51 hev strains in the current study all belonged to what genotype?	genotype 4	43
+6	What did the results show about hev isolates in humans and swine populations?	some of hev isolates prevalent in the human and swine populations were classified into the same clusters	43
+0	Are chimpanzees synaesthetic?	synaesthetic	44
+1	When was a study by ludwig, adachi, and matzuzawa published?	2011	44
+2	What is the claim that chimpanzees are?	synaesthetic	44
+3	What do we question the claim that chimpanzees are synaesthetic?	certain crossmodal correspondences are innate	44
+4	What do we suggest an alternative account for the crossmodal correspondence between in terms of the internalization of correlations present in the environment?	auditory pitch and visual lightness	44
+5	What do we highlight about natural correlation approaches to the study of crossmodal correspondences?	limitations	44
+0	What plays an important role in hospitalization of children in developing countries?	backgroundacute respiratory infection	45
+1	What is the most common etiological agent of viral lower respiratory tract infection in children?	respiratory syncytial virus	45
+2	How many hmpv infected children were male?	five	45
+3	What age were rsv infections mainly detected in?	one year old children	45
+4	When did rsv and hmpv infections occur mainly?	winter and spring seasons	45
+5	What was the seasonal occurrence of hmpv and rsv?	the same	45
+0	How old was the woman who presented with erythema multiforme?	34	47
+1	How long did it take for lesions to develop?	12-day	47
+2	What excluded viral or bacterial infections?	serological investigations	47
+3	What did patch testing of both drugs show sensitization to?	galenic preparations	47
+4	What components are likely to have triggered the skin eruption?	clorazepate dipotassium and theobromine	47
+5	What are two constituents that may have triggered the skin eruption?	pseudoephedrine hydrochloride and dehydrocholic acid	47
+6	Why are there no reports about em caused by a slimming drug preparation?	no studies have identified thermogenic pills as cause of em / em - like eruption	47
+7	What should be kept in mind as a possible cause of drug induced em - like eruption?	weight - loss compounds	47
+0	What do pregnant women who travel to malarious areas need data on?	malaria chemoprophylaxis	48
+1	What drug did the drug safety database analyze in pregnancy?	mefloquine	48
+0	What is tlr4?	receptor 4	49
+1	What enhances tlr4 signaling in dry eye?	disruption of the ocular surface barrier	49
+2	How long was desiccating stress in ns mice?	5 days	49
+3	What were extracted after 4 hours to analyze expression of inflammatory mediators via pcr?	corneal epithelium and conjunctiva	49
+4	How was protein expression confirmed?	immunobead assay and immunostaining	49
+5	How much increased expression of il-1 in cornea did lps in ds mice produce?	3-fold	49
+6	What enhances exposure of lps to tlr4 + cells?	epithelial barrier disruption	49
+0	What is the name of the condition that causes cataract and glaucoma?	congenital aniridia	50
+0	What is the pathophysiology of migraine with aura thought to be related to?	cortical spreading depression and cortical hypersensitivity	51
+1	What is the length of a persistent migraine aura without infarction?	1 week	51
+2	What did we describe a case of persistent aura with a small?	occipital cortical infarction	51
+3	What did the patient suffer from?	persistent aura	51
+4	What hypothesis do the present case and pma cases support?	intracortical disinhibition hypothesis	51
+0	What syndrome is as rare as apert syndrome in the western population?	pfeiffer	54
+1	In what country has pfeiffer syndrome not been previously reported?	korea	54
+2	What is pfeiffer syndrome manifested by?	bicoronal craniosynostosis	54
+3	What part of the fingers and toes did the newborn baby have with pfeiffer syndrome?	bilateral syndactyly of the fingers and toes	54
+0	Insulin resistance and a decline in functional -cell mass are hallmarks of developing what?	type 2 diabetes	55
+1	Searching for natural, low - cost compounds to target these two defects could be a promising strategy to prevent what of t2d?	pathogenesis	55
+2	How much flavonol kaempferol is in the diet?	0.05%	55
+3	What reversed hf diet impaired glucose transport-4 ( glut4) and amp dependent protein kinase expression in both muscle and ad	kaempferol treatment	55
+4	When did kaempferol increase lipolysis?	in vitro	55
+5	How was a mouse model of t2d generated?	hf diet feeding and low doses of streptozotocin injection	55
+6	What may be a naturally occurring anti - diabetic agent?	kaempferol	55
+0	What type of mesenchymalneoplasms of the gallbladder are extremely rare?	malignant	56
+1	How many cases of primary gallbladder sarcoma have been described?	105	56
+2	What type of behavior does gallbladder sarcoma have?	aggressive	56
+3	What may not be possible for patients with gallbladder sarcoma?	curative surgical management	56
+4	How old was the patient with leiomyosarcoma of the gallbladder?	54	56
+5	What type of surgery was performed in a 54-year-old patient with locally invasive leiomyosarcoma of the gallbla	cholecystectomy	56
+6	Further studies are needed to confirm the benefit of what for patients with leiomyosarcoma of the gallbladder?	aggressive treatment	56
+0	What generates a map of cis - regulatory elements for the whole arabidopsis thaliana genome?	athamap database	58
+1	What has the athamap database been extended by new tools to identify?	common cis - regulatory elements in specific regions of user - provided gene sets	58
+2	What information is included in the resulting table of cis - regulatory elements annotated in athamap?	positional information relative to the respective gene	58
+3	What are the number of individual transcription factor binding sites?	tfbs	58
+4	What features were used to detect specific enrichment of drought responsive elements in cold induced genes?	over represented cis - elements	58
+5	What were over represented cis - elements used to detect?	drought - responsive elements in cold - induced genes	58
+6	The output table of what function was extended to show the closest genes and their relative distances to the colocalizing tfbs?	colocalization	58
+7	What are two examples of microarray gene expression databases?	genevestigator or pathoplant	58
+8	What are two improvements of athamap?	display of the gene structure in the sequence window and a significant data increase	58
+9	What is freely available at?	athamap	58
+0	Effective treatments could prevent what?	irreversible tissue damage	60
+1	The special structure of the eye provides a unique opportunity for noninvasive light based imaging of what?	ocular fundus vasculature	60
+2	What molecules were targeted by novel imaging agents?	retinal endothelial	60
+3	What type of molecular imaging has a great potential to impact medicine?	in vivo	60
+4	What do endoscopes and microcatheters have in common with in vivo molecular imaging?	preclinical findings and advances in instrumentation	60
+0	What are people with sensorineural hearing loss able to regain some lost auditory function with?	hearing aids	61
+1	What auditory distortions are not able to overcome in noisy environments?	impaired frequency resolution and speech understanding	61
+2	What may contribute to patient dissatisfaction with amplification?	coexistence of peripheral hearing loss and a central auditory deficit	61
+3	What is the term for frequency and duration of sounds?	temporal processing	61
+4	What did the post - training evaluation of the experimental group demonstrate a statistically significant reduction in?	p3 latency	61
+5	What was observed in the control group?	no changes	61
+0	What genets were identified using random amplified polymorphic dna molecular markers and the dna of mushrooms that	suillus granulatus	63
+1	How many genets were identified from a total of 116 mushrooms?	73	63
+2	Where did the genets of mushrooms differ from each other?	close proximity	63
+3	How many genets were found in a pine stand?	three	63
+4	What was the average number of mushrooms per genet?	1.2 to 2.3	63
+5	What does the variation in genets of mushrooms in close proximity suggest?	ectomycorrhizal mycelial bodies	63
+6	What is necessary to investigate the formation of new genets in ectomycorrhizal fungal colonies?	spores	63
+0	What disease has been affecting almost all parts of the world since ages?	tuberculosis	64
+1	What did many efforts come in the past for?	improving diagnosis and treatment	64
+2	What has been sought after for long?	an effective vaccine	64
+3	What is the resistant strain of tuberculosis?	mycobacterium tuberculosis	64
+4	What holds the key to success in treating tuberculosis?	proper diagnostics	64
+5	What accompanied a high burden of the disease?	resource limitations and poor research set - up	64
+6	How long did the high burden of TB remain the same?	several decades	64
+7	Who refreshed the vision of funding in many areas of research in tuberculosis diagnosis and treatment?	resourceful countries and funding agencies	64
+8	What is the aim of this review?	to bring forth the limitations of available methods in the field of diagnostics and making researchers aware about the changing scenario with better funding opportunities and support	64
+9	What does the author envision an enthusiasm from all over the world for?	the development of better modalities	64
+0	What is an essential cytokine for immunity against intracellular pathogens and cancer?	interferon- ( ifn- )	65
+1	ifn- expression by cd4 t lymphocytes is observed only after what differentiation?	t helper	65
+2	After what is there a progressive acquisition of ifn- expression during differentiation into cytotoxic t lymphocytes?	tcr stimulation	65
+3	What can differential gene expression be regulated from?	selective action of transcriptional factors	65
+4	What is an integral part of cd8 lymphocyte differentiation?	epigenetic modification	65
+5	What will this review focus on of ifng promoter in cd8 t cells?	chromatin status	65
+0	What syndrome is characterized by multiple recurrent vascular malformations of skin and gastrointestinal tract?	blue rubber bleb nevus	66
+1	What is one manifestation of blue rubber bleb nevus syndrome?	iron deficiency anemia	66
+2	How old was the man who had blue rubber bleb nevus syndrome?	22	66
+3	Why did we decide to treat him by iron supplementation and close follow up?	stable hemoglobin level	66
+4	Along with a review of what did we report the case of blue rubber bleb nevus syndrome?	literature	66
+0	What is another name for nonalcoholic steatohepatitis?	nash	67
+1	What is likely to worsen nash despite being effective in the treatment of aih?	corticosteroids	67
+2	What is nash - aih overlap associated with?	diabetes mellitus	67
+3	How long after initial diagnosis did a liver biopsy show minimal inflammatory infiltrates in the portal area?	40 months	67
+4	What does prednisolone do in conjunction with a reduction in hepatic fibrosis?	prevents disease progression	67
+5	What may be an important component of the optimum therapy for nash - aih overlap?	appropriate immunosuppressive treatment	67
+0	How many countries participated in the a1chieve study?	28	69
+1	How many patients were enrolled in the a1chieve study?	2242	69
+2	How many different insulin analogue regimens were used in the study?	four	69
+3	How many patients started on or were switched to biphasic insulin aspart?	n = 1515	69
+4	What was the mean hba1c of the insulin nave group?	10.0%	69
+5	What was the hba1c improvement for the insulin nave group?	3.1%	69
+6	Major hypoglycaemic events or episodes did not occur in any of the study patients?	sadrs	69
+0	What is a case of in a patient with joubert syndrome?	bulbar ptosis	70
+1	What is a rare neurodevelopmental disorder with malformations in the cerebellum and brainstem?	joubert syndrome	70
+2	What is a rare neurodevelopmental disorder with malformations in the cerebellum and brainstem?	joubert syndrome	70
+3	Who developed a cerebrospinal fluid cyst in her midbrain?	24-year - old joubert patient	70
+4	Along with bilateral third nerve palsy, what condition was present in the left eye of a patient with joubert syndrome?	abducens palsy	70
+5	What was used to treat the bilateral central third nerve palsy?	silicone sling frontalis suspension	70
+0	What is a common mechanism of injury among female trauma victims?	assault	72
+1	Where was a retrospective analysis of all female trauma patients performed?	illinois department of public health trauma registry	72
+2	What was used to identify independent risk factors for assault?	stata statistical software	72
+3	What was studied among the identified risk factors?	interaction affects	72
+4	How many interaction effects did drug use and lack of insurance have?	1.67	72
+5	How often do predictors of assault in women increase the risk for female violent victimization?	coexist	72
+0	What is another name for right ventricular pacing?	rv	73
+1	What is another name for left ventricular systolic function?	lv	73
+2	What function of the left ventricular is deteriorated by pacing?	systolic	73
+3	What is an effective therapy for picm?	biventricular pacing	73
+4	What type of patient responded dramatically to permanent hbp?	picm	73
+0	What does chc stand for?	hepatitis c virus	76
+1	Who was the aim of this study?	nave gt1b chc patients	76
+2	How many ns3 patients were studied?	145	76
+3	What was the outcome of the study?	failure associated variants of daas were detected	76
+4	What type of sequencing detected nearly all of the daas ravs?	ultra - deep sequencing	76
+5	What might need to be performed when patients infected with gt1b hcv receiving daas - containing regimens	pretreatment sequencing of hcv genome	76
+6	What would be quite quantified for the work?	population sequencing	76
+0	What is copd?	chronic obstructive pulmonary disease	78
+1	What was used to evaluate cardiac autonomic modulation after an acute session of re?	heart rate variability	78
+2	How long was the heart rate recorded at rest and after the training session?	20 minutes	78
+3	What was obtained in the time and frequency domains for the assessment of autonomic modulation?	heart rate variability indexes	78
+4	What is the standard deviation of normal to normal rr intervals?	60% and 90%	78
+5	What is the spectral component of low frequency index?	ms	78
+6	What is the spectral component of high frequency index?	ms	78
+0	What has been identified as a potential sequela following both intravitreal bevacizumab and ranibizumab injections?	noninfectious uveitis	81
+1	How many unique cases of acute anterior uveitis following intravitreal bevacizumab did not occur with subsequent ranibizuma	two	81
+0	How many distinct types of cardiorenal syndrome exist?	five	83
+1	What is another name for chronic renal disease?	ckd	83
+2	Is there evidence linking ckd with increased cardiovascular morbidity and mortality?	there is sufficient epidemiologic evidence linking ckd with increased cardiovascular morbidity and mortality	83
+3	What goes beyond the highly prevalent traditional cardiovascular risk burden affecting renal patients?	pathophysiology	83
+4	What type of related factors lead to cardiac and vascular pathology?	ckd	83
+5	Therapeutic interventions appear to be what?	underutilized	83
+0	In most if not all neurodegenerative disorders, impaired protein clearance fundamentally contributes to what?	functional and structural alterations	85
+1	Dysfunction of protein clearance leads to what types of accumulation of misfolded proteins and aggregates?	intra- and extraneuronal	85
+2	What is the pathological hallmark of lewy body disorders?	abnormal accumulation of misfolded proteins	85
+3	What are two examples of intraneuronal and extraneuronal protein clearance mechanisms?	autophagy and unfolded protein stress response	85
+4	A better understanding of the pathways underlying protein clearance in particular of asyn and abeta in lbds may result in the	novel biomarkers	85
+0	What is the mainstay treatment for md?	resection of the diverticulum or the segment of the bowel	86
+0	What is the most widely used botanical insecticide?	pyrethrins	87
+1	What is the dominant insect found inside pyrethrum flowers?	thrips	87
+2	What percentage of western flower thrips die within 3 days of initiating feeding on leaves of pyrethrum?	80 %	87
+3	Where were the effects of pyrethrins on wft survival measured?	in vitro and in planta	87
+4	What was the lethal concentration value for pyrethrins against wft adults?	12.9 mg / ml	87
+5	What percentage of pyrethrins were in chrysanthemum leaves?	0.01 - 1 %	87
+6	What percentage of pyrethrins were found in chrysanthemum leaves?	0.1 % or 1 %	87
+7	In what type of assay was the reproduction of wft reduced significantly when the insects were fed leaves containing 0.1 % pyre	no - choice assay	87
+8	What may be responsible for the observed high mortality of wft on pyrethrum?	natural concentrations of pyrethrins in the leaves	87
+0	What does esrd stand for?	end - stage renal disease	90
+1	By what age does oligomeganephronia progress to end stage renal disease?	school age	90
+2	How many adult cases of oligomeganephronia have not yet developed esrd?	three	90
+3	What was performed in all three cases of oligomeganephronia?	renal biopsy	90
+4	What were the pathological features of oligomeganephronia?	reduced number of enlarged glomeruli	90
+5	What was the degree of loss of glomeruli in oligomeganephronia?	milder	90
+0	What profession has struggled with how it is viewed and perceived by those within the profession and the powerful forces outside the profession?	chiropractic	92
+1	What does this commentary suggest the vast majority of professional unrest is largely due to?	lines drawn upon philosophical boundaries and how we perceive what we know	92
+2	What is imperative for the chiropractic profession to advance?	unsubstantiated claims are eliminated from our justification for being	92
+3	Theories espoused must be supported by what?	valid research	92
+4	What will we contribute to by changing the health care paradigm from disease focused to wellness?	philosophy of health	92
+0	What vaccination covers most children against mumps in korea?	measles - mumps - rubella vaccination	94
+1	How have the clinical manifestations of mumps orchitis in postpubertal vaccinated patients been investigated?	never been investigated	94
+2	How many postpubertal males developed acute mumps orchitis from 2005 to 2010?	62	94
+3	What was the mean age of the 62 postpubertal males who developed acute mumps orchitis from 2005 to 2010?	17.56 years	94
+4	What type of immunoglobulin was used to confirm mumps infection?	positive immunoglobulin	94
+5	How long was the mean incubation period for mumps infection?	5.39 days	94
+6	What did sonography reveal in 58 patients?	unilateral orchitis	94
+7	What was found upon physical examination and ultrasonography in mumps orchitis in postpubertal vaccinated patients?	less scrotal swelling and a lower incidence of bilaterality	94
+8	What is needed to determine the features of mumps orchitis in postpubertal vaccinated males?	additional long - term follow - up	94
+0	What was the outbreak of in a rural district of niger?	neisseria meningitidis serogroup c infection	95
+1	Where was the outbreak of neisseria meningitidis serogroup c infection?	niger	95
+2	What did we find during home visits?	household contacts of reported case - patients were at higher risk for developing meningitis than the general population	95
+0	What does egfr - tki stand for?	epidermal growth factor receptor tyrosine kinase inhibitor	97
+1	What does tyrosine kinase inhibitor stand for?	egfr - tki	97
+2	What is the second mutation detected in exon 20 of the pericardial effusion?	t790 m	97
+3	What is the first report to detect the resistant mutation in pericardial effusion?	t790 m	97
+4	What may be useful as surrogate tissue for detecting egfr mutation?	pericardial effusion	97
+0	What can cause a misdiagnosis very easily?	rarity of cystic oesophageal duplications	99
+1	Where are hydatid cysts most common?	endemic areas	99
+2	Who was misdiagnosed as a hydatid cyst?	7-year - old girl	99
+3	What is the aim of the study?	rare oesophageal duplications	99
